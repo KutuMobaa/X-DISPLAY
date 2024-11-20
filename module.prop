@@ -1,0 +1,7 @@
+id=X_DISPLAY
+name=X-DISPLAY
+version=V 5.7
+versionCode=20
+author= Kutu Moba
+description= overclock the refresh rate of the snapdragon screen as desired
+updateJson=https://raw.githubusercontent.com/KutuMobaa/X-DISPLAY/main/update.json
